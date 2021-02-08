@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="search_for_a_movie">Search for a movie</string>
+    <string name="search">Search</string>
+    <string name="movie_image">movie image</string>
+    <string name="error">Error</string>
+    <string name="no_data">No Data</string>
+</resources>
